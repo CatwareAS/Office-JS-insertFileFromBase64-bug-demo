@@ -136,4 +136,9 @@ Solving this issue is essential for us because our application involves switchin
 
 The demo project lies withing this repository. You can install and run it locally
 
-![demo-app.png](assets/demo-app.png)
+Recorded demos:
+
+[bug-demo-case-1.mp4](src/demo/bug-demo-case-1.mp4)
+
+[bug-demo-case-2.mp4](src/demo/bug-demo-case-2.mp4)
+
