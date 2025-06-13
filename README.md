@@ -2,10 +2,6 @@
 
 **The issue:** When a document is divided into multiple sections and each section has custom headers and footers (which are not "Linked to Previous"), the document is inserted incorrectly using insertFileFromBase64 method  
 
-### Demo
-
-The demo project lies withing this repository. You can install and run it locally
-
 ### Environment
 
 - Platform: PC desktop
@@ -134,3 +130,10 @@ Result: The header and footer for the first sections are missing [Document_2_cas
 ### Context
 
 Solving this issue is essential for us because our application involves switching through many documents.
+
+
+### Demo
+
+The demo project lies withing this repository. You can install and run it locally
+
+![demo-app.png](assets/demo-app.png)
